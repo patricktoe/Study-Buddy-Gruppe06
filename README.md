@@ -4,3 +4,5 @@ Ferdinand Porsche FernFH Study Buddy Missions
 Schmid Ines 
 Töpfl Patrick
 Schmuck-Längle Franziska Leonie
+Müller Nicholas David
+Brezina Stefan
